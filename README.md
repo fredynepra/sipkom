@@ -1,2 +1,4 @@
-# sipkom
-Sistem Perhitungan Kompleksitas Kode Sumber Berdasarkan Metrik Halstead dan Cyclomatic Complexity
+Proyek Skripsi
+Status: Final
+
+Teknologi bahasa java dengan menggunakan mvc pattern dan OOP class. 
